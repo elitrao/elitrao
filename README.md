@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Daniil — ML Product Manager. Product thinking meets machine learning." />
+<img src=".header.svg" width="100%" alt="Daniil — ML Product Manager. Product thinking meets machine learning." />
 
 **From a user problem to an ML product that makes a difference.**
 
