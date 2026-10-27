@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Daniil — ML Product Manager</title>
+  <desc id="desc">A dark banner with violet and mint accents. Product thinking meets machine learning.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/><stop offset="1" stop-color="#171329"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA"/><stop offset=".55" stop-color="#38BDF8"/><stop offset="1" stop-color="#34D399"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#A78BFA" opacity=".13"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="340" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="22" fill="url(#grid)"/>
+  <path d="M24 338H1176" stroke="url(#line)" stroke-width="4"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <rect x="56" y="45" width="116" height="28" rx="14" fill="#A78BFA" fill-opacity=".12" stroke="#A78BFA" stroke-opacity=".3"/>
+    <circle cx="74" cy="59" r="4" fill="#34D399"/>
+    <text x="87" y="64" font-size="13" font-weight="600" letter-spacing="1.2" fill="#C4B5FD">@elitrao</text>
+    <text x="56" y="129" font-size="25" fill="#CBD5E1">Hey, I'm Daniil.</text>
+    <text x="53" y="197" font-size="57" font-weight="700" letter-spacing="-2" fill="#F8FAFC">ML Product Manager</text>
+    <text x="56" y="241" font-size="20" fill="#A8B4C8">Product thinking meets machine learning.</text>
+    <text x="56" y="296" font-size="12" font-weight="600" letter-spacing="3" fill="#8D9CB5">DISCOVER / BUILD / LEARN</text>
+    <circle cx="1000" cy="167" r="108" stroke="#A78BFA" stroke-opacity=".15"/>
+    <circle cx="1000" cy="167" r="74" stroke="#A78BFA" stroke-opacity=".22"/>
+    <path d="M909 108L1091 108L1000 259Z" stroke="#A78BFA" stroke-opacity=".45" stroke-width="1.5"/>
+    <path d="M909 108L1000 167L1091 108M1000 167V259" stroke="#38BDF8" stroke-opacity=".45" stroke-width="1.5"/>
+    <circle cx="1000" cy="167" r="31" fill="#25213F" stroke="#A78BFA"/>
+    <text x="1000" y="174" text-anchor="middle" font-size="20" font-weight="600" fill="#E9D5FF">ML</text>
+    <circle cx="909" cy="108" r="8" fill="#A78BFA"/>
+    <circle cx="1091" cy="108" r="8" fill="#38BDF8"/>
+    <circle cx="1000" cy="259" r="8" fill="#34D399"/>
+    <text x="909" y="85" text-anchor="middle" font-size="11" letter-spacing="2" fill="#C4B5FD">PRODUCT</text>
+    <text x="1091" y="85" text-anchor="middle" font-size="11" letter-spacing="2" fill="#7DD3FC">DATA</text>
+    <text x="1000" y="292" text-anchor="middle" font-size="11" letter-spacing="2" fill="#6EE7B7">VALUE</text>
+  </g>
+</svg>
