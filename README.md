@@ -42,14 +42,6 @@ I like turning ideas into tangible things: prototypes, interfaces, integrations,
   <samp>Problem → Hypothesis → Prototype → Feedback → Iteration</samp>
 </p>
 
-## 🚀 Selected projects
-
-| Project | What it does | Built around |
-| :--- | :--- | :--- |
-| **[Mentor API Lab](https://github.com/elitrao/mentor-api-lab)** | An interface for testing the Mentor API: employee integrations, call uploads, and category reports. | Node.js · REST APIs · Cloudflare Workers |
-| **[FORMA Workout Tracker](https://github.com/elitrao/forma-workout-tracker)** | A personal workout tracker with individual profiles, workout history, and body measurements. | Node.js · SQLite |
-| **[Minimalist HUD](https://github.com/elitrao/Minimalist-HUD)** | A minimal game interface for DarkRP and StarWarsRP. | Lua · UI |
-
 ## 🧰 Technical background
 
 Tools and technologies from my development background and public projects:
